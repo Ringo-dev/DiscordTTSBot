@@ -1,0 +1,8 @@
+{
+    "ip": "127.0.0.1",
+    "port": 50021,
+    "speaker_id": 3,
+    "tts_channel_id": null,
+    "tts_channel_name": null,
+    "read_user": "True"
+}
